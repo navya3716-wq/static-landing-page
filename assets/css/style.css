@@ -1222,7 +1222,7 @@ margin-top: 90px;
   margin-top: 120px;
   margin-bottom: -20px;
   padding: 0;
-  background-image: url('/assets/images/home_3.webp');
+  background-image: url("../images/home_3.webp");
   background-size: cover;
   height:550px;
 }
@@ -1530,3 +1530,4 @@ margin-top: 25px;
     
 
   }
+
