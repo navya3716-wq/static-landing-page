@@ -41,7 +41,7 @@ img {
 }
 
 .background-img{
-background-image: url("/assets/images/background-img.webp");
+background-image: url("../images/background-img.webp");
 background-size: cover;
 width: 100%;
 background-repeat: no-repeat;
@@ -327,7 +327,7 @@ font-family: 'Poppins', sans-serif !important;
 }
 
 .digital-img {
-  background-image: url('/assets/images/banner-2 img.webp');
+  background-image: url("../images/banner-2 img.webp");
   background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 150px;
@@ -450,7 +450,7 @@ font-family: 'Poppins', sans-serif !important;
 
 /* Work Section starts*/
 .work-section {
-  background-image: url("/assets/images/home_img-2.webp");
+  background-image: url("../images/home_img-2.webp");
   background-size: cover;
   width: 100%;
   min-height: 500px;
@@ -1528,4 +1528,5 @@ margin-top: 25px;
         width:100vh;
       }
     
+
   }
