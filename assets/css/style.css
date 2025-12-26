@@ -40,7 +40,7 @@ img {
   position: relative;
 }
 
-.background-img{
+ .background-img {
 background-image: url("../images/background-img.webp");
 background-size: cover;
 width: 100%;
@@ -1528,6 +1528,4 @@ margin-top: 25px;
         width:100vh;
       }
     
-
   }
-
